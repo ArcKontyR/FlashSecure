@@ -1,0 +1,1 @@
+sudo sdiff -s -l /etc/udev/rules.d/99-usb.rules 99-usb.rules >> 99-usb.rules
